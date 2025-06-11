@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/maycon-jesus/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" alt="LeetCode Profile"/></a>
-  <img src="https://img.shields.io/github/last-commit/maycon-jesus/leetcode?label=Last Updated" alt="Last Updated"/>
+  <img src="https://img.shields.io/github/last-commit/maycon-jesus/leetcode?label=Last%20Updated" alt="Last Updated"/>
 </p>
 
 <p align="center">
