@@ -1,5 +1,10 @@
 package main
 
+// Title: Candy
+// Problem: https://leetcode.com/problems/candy/
+// Difficulty: Hard
+// Tags: Array, Greedy, Dynamic Programming
+
 func main() {
 	// Example usage
 	ratings := []int{1, 0, 2}
