@@ -57,7 +57,9 @@ Each solution includes:
 
 | # | Problem | Solution | Difficulty |
 |---|---------|----------|------------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [GoLang](./golang/1.go) | 🟢 Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [GoLang](./golang/1/1.go) | 🟢 Easy |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [GoLang](./golang/9/9.go) | 🟢 Easy |
+| 3445 | Maximum Difference Between Even and Odd Frequency II | [GoLang](./golang/3445/3445.go) | Hard | 
 | ... | ... | ... | ... |
 
 ---
