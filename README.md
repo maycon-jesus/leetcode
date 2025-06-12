@@ -60,7 +60,7 @@ Each solution includes:
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [GoLang](./golang/1/1.go) | 🟢 Easy |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [GoLang](./golang/9/9.go) | 🟢 Easy |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [GoLang](./golang/135/135.go) | Hard |
-| 3445 | Maximum Difference Between Even and Odd Frequency II | [GoLang](./golang/3445/3445.go) | Hard | 
+| 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | [GoLang](./golang/3423/3423.go) | Easy |
 | ... | ... | ... | ... |
 
 ---
