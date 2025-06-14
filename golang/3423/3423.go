@@ -1,5 +1,12 @@
 package main
 
+// Problem: Maximum Difference Between Adjacent Elements in a Circular Array
+// Link: https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/
+// Difficulty: Easy
+// Tags: Array, Math
+// Time Complexity: O(n), where n is the number of elements in the input slice 'nums'.
+// Space Complexity: O(1), since we are using a constant amount of space for variables.
+
 import (
 	"math"
 )

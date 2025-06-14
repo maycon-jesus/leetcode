@@ -4,6 +4,8 @@ package main
 // Link: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 // Difficulty: Medium
 // Tags: Array, Binary Search, Greedy
+// Time Complexity: O(n log(maxDiff)), where n is the number of elements in the array and maxDiff is the maximum difference between any two elements.
+// Space Complexity: O(1), since we are using a constant amount of space for variables.
 
 import (
 	"sort"

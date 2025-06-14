@@ -4,6 +4,8 @@ package main
 // Link: https://leetcode.com/problems/add-two-numbers/
 // Difficulty: Medium
 // Tags: Linked List, Math
+// Time Complexity: O(max(m, n)), where m and n are the lengths of the two linked lists.
+// Space Complexity: O(max(m, n)), for the resulting linked list.
 
 // Estrutura de nó para lista ligada que representa dígitos de um número
 type ListNode struct {

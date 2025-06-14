@@ -4,6 +4,8 @@ package main
 // Link: https://leetcode.com/problems/two-sum/
 // Difficulty: Easy
 // Tags: Array, Hash Table
+// Time Complexity: O(n), where n is the number of elements in the input slice 'nums'.
+// Space Complexity: O(n), for storing the indices of the elements in a map.
 
 import "fmt"
 
