@@ -61,6 +61,7 @@ Each solution includes:
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [GoLang](./golang/2/2.go) | 🟢 Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [GoLang](./golang/9/9.go) | 🟢 Easy |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [GoLang](./golang/135/135.go) | Hard |
+| 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer) | [GoLang](./golang/1432/1432.go) | Medium |
 | 2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit) | [GoLang](./golang/2566/2566.go) | Easy |
 | 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) | [GoLang](./golang/2616/2616.go) | Medium |
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | [GoLang](./golang/3423/3423.go) | Easy |
