@@ -59,6 +59,7 @@ Each solution includes:
 |---|---------|----------|------------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [GoLang](./golang/1/1.go) | 🟢 Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [GoLang](./golang/2/2.go) | 🟢 Medium |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [GoLang](./golang/3/3.go) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [GoLang](./golang/9/9.go) | 🟢 Easy |
 | 135 | [Candy](https://leetcode.com/problems/candy/) | [GoLang](./golang/135/135.go) | Hard |
 | 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer) | [GoLang](./golang/1432/1432.go) | Medium |
