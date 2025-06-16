@@ -9,6 +9,8 @@ import (
 // Link: https://leetcode.com/problems/min-max-difference-in-an-array/
 // Difficulty: Easy
 // Tags: Array, Math
+// Time Complexity: O(d), where d is the number of digits in the integer num.
+// Space Complexity: O(d), for storing the modified strings representing the max and min numbers.
 
 func minMaxDifference(num int) int {
 	// Convert the number to a string to manipulate digits
