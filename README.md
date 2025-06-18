@@ -66,6 +66,7 @@ Each solution includes:
 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements) | [GoLang](./golang/2016/2016.go) | Easy |
 | 2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit) | [GoLang](./golang/2566/2566.go) | Easy |
 | 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) | [GoLang](./golang/2616/2616.go) | Medium |
+| 2966 | Divide Array Into Arrays With Maximum Difference | [GoLang](./golang/2966/2966.go) | Medium |
 | 3405 | [Count the Number of Arrays With K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements) | [GoLang](./golang/3405/3405.go) | Hard |
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | [GoLang](./golang/3423/3423.go) | Easy |
 | ... | ... | ... | ... |
