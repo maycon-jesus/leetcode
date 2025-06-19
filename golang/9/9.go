@@ -6,6 +6,8 @@ import "fmt"
 // Link: https://leetcode.com/problems/palindrome-number/
 // Difficulty: Easy
 // Tags: Math, String
+// Time Complexity: O(log10(n)), where n is the number of digits in the integer x.
+// Space Complexity: O(1), since we are using a constant amount of space for variables.
 
 // main demonstrates the usage of the isPalindrome function by printing the results
 // of checking whether several integers are palindromes. It outputs the results for
