@@ -71,6 +71,7 @@ Each solution includes:
 | 2966 | Divide Array Into Arrays With Maximum Difference | [GoLang](./golang/2966/2966.go) | Medium |
 | 3405 | [Count the Number of Arrays With K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements) | [GoLang](./golang/3405/3405.go) | Hard |
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | [GoLang](./golang/3423/3423.go) | Easy |
+| 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption) | [GoLang](./golang/3582) | 🟢 Easy |
 | ... | ... | ... | ... |
 
 ---
