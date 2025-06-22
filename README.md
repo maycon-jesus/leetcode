@@ -27,7 +27,7 @@ This repository is a personal archive of my journey solving LeetCode problems. H
 ## 🚀 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/maycon-jesus?theme=radical&font=baloo&border=2" width="500" alt="LeetCode Stats" />
+  <img src="[https://leetcard.jacoblin.cool/maycon-jesus?theme=radical&font=baloo&border=2](https://leetcard.jacoblin.cool/maycon-jesus?theme=radical&font=Ubuntu&ext=contest" width="500" alt="LeetCode Stats" />
 </p>
 
 ---
