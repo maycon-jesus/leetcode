@@ -28,8 +28,11 @@ func myAtoi(s string) int {
 		digit := int(s[i] - '0')
 		i++
 
-		if result > (maxInt-digit)/10 {
-			return maxInt // Overflow
+		if sign == 1 && result > (maxInt-digit)/10 {
+			return maxInt // Positive overflow
+		}
+		if sign == -1 && result > (-(minInt+digit))/10 {
+			return minInt // Negative overflow
 		}
 		result = result*10 + digit
 	}

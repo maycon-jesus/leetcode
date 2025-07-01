@@ -13,6 +13,7 @@ func TestMyAtoi(t *testing.T) {
 		{"Example 3", "1337c0d3", 1337},
 		{"Example 4", "0-1", 0},
 		{"Example 5", "words and 987", 0},
+		{"Negative overflow", "-91283472332", -2147483648},
 	}
 
 	for _, tt := range tests {
