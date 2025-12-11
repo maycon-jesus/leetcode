@@ -2,91 +2,169 @@
   <img src="https://assets.leetcode.com/static_assets/public/LeetCode_logo.png" width="120" alt="LeetCode Logo"/>
 </p>
 
-<h1 align="center">📚 LeetCode Solutions by Maycon Jesus</h1>
+<h1 align="center">📚 Soluções LeetCode</h1>
 
 <p align="center">
-  <a href="https://leetcode.com/maycon-jesus/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode" alt="LeetCode Profile"/></a>
-  <img src="https://img.shields.io/github/last-commit/maycon-jesus/leetcode?label=Last%20Updated" alt="Last Updated"/>
+  <a href="https://leetcode.com/maycon-jesus/"><img src="https://img.shields.io/badge/LeetCode-Perfil-orange?logo=leetcode" alt="LeetCode Profile"/></a>
+  <img src="https://img.shields.io/github/last-commit/maycon-jesus/leetcode?label=Última%20Atualização" alt="Last Updated"/>
+  <img src="https://img.shields.io/badge/Problemas%20Resolvidos-37+-blue" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Linguagem-Go-00ADD8?logo=go" alt="Language"/>
 </p>
 
 <p align="center">
-  <!-- LeetCode Profile Card -->
-  <img src="https://leetcard.jacoblin.cool/maycon-jesus?theme=radical&font=DM%20Serif%20Display&ext=heatmap" width="400" alt="LeetCode Profile Card" />
-</p>
-
----
-
-## 🌟 Welcome!
-
-This repository is a personal archive of my journey solving LeetCode problems. Here, you'll find well-documented solutions, categorized by topic and difficulty, with explanations and code in multiple programming languages whenever possible.
-
-> “Success is the sum of small efforts, repeated day in and day out.” – Robert Collier
-
----
-
-## 🚀 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/maycon-jesus?theme=radical&font=baloo&border=2](https://leetcard.jacoblin.cool/maycon-jesus?theme=radical&font=Ubuntu&ext=contest" width="500" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/maycon-jesus?theme=radical&font=DM%20Serif%20Display&ext=heatmap" width="500" alt="LeetCode Profile Card" />
 </p>
 
 ---
 
-## 🚀 Navigation
+## 🎯 Sobre Este Repositório
 
-- 📂 **Problems by Language:**  
-  - [GoLang](./golang/)
+Uma coleção abrangente de soluções de problemas do LeetCode implementadas em Go. Cada solução é desenvolvida com:
+- **Código limpo e eficiente** otimizado para complexidade de tempo e espaço
+- **Suítes de testes abrangentes** com cobertura extensiva de casos extremos
+- **Explicações detalhadas** de algoritmos e abordagens
+- **Testes de benchmark** demonstrando características de performance
 
----
-
-## 📝 Solution Format
-
-Each solution includes:
-- **Problem Title**
-- **Problem Link**
-- **Difficulty Level** (Easy, Medium, Hard)
-- **Tags** (e.g., Array, String, Dynamic Programming)
-- **Solution Code** (in the respective language)
-- **Explanation** (if applicable)
-- **Test Cases** (if applicable)
-- **Time and Space Complexity Analysis** (if applicable)
+> **Nota**: Este repositório foca em compreender algoritmos fundamentais e escrever código com qualidade de produção, não apenas passar nos casos de teste.
 
 ---
 
-## ✨ My Progress
+## 📊 Estatísticas
 
-| # | Problem | Solution | Difficulty |
-|---|---------|----------|------------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [GoLang](./golang/1/1.go) | 🟢 Easy |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [GoLang](./golang/2/2.go) | 🟢 Medium |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [GoLang](./golang/3/3.go) | Medium |
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [GoLang](./golang/4/4.go) | Hard |
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [GoLang](./golang/9/9.go) | 🟢 Easy |
-| 135 | [Candy](https://leetcode.com/problems/candy/) | [GoLang](./golang/135/135.go) | Hard |
-| 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer) | [GoLang](./golang/1432/1432.go) | Medium |
-| 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements) | [GoLang](./golang/2016/2016.go) | Easy |
-| 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) | [GoLang](./golang/2294/2294.go) | Medium |
-| 2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit) | [GoLang](./golang/2566/2566.go) | Easy |
-| 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) | [GoLang](./golang/2616/2616.go) | Medium |
-| 2966 | Divide Array Into Arrays With Maximum Difference | [GoLang](./golang/2966/2966.go) | Medium |
-| 3405 | [Count the Number of Arrays With K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements) | [GoLang](./golang/3405/3405.go) | Hard |
-| 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | [GoLang](./golang/3423/3423.go) | Easy |
-| 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption) | [GoLang](./golang/3582) | 🟢 Easy |
-| ... | ... | ... | ... |
+| Dificuldade | Quantidade | Percentual |
+|-------------|-----------|------------|
+| 🟢 Fácil    | 15+       | ~40%       |
+| 🟡 Médio    | 15+       | ~40%       |
+| 🔴 Difícil  | 6+        | ~20%       |
 
 ---
 
-## 🤝 Contributions
+## 🗂️ Estrutura do Repositório
 
-This is a personal archive, but if you spot a bug or want to suggest improvements, feel free to open an issue or pull request!
+```
+leetcode/
+└── golang/
+    ├── 1/          # Two Sum
+    ├── 13/         # Roman to Integer
+    ├── 14/         # Longest Common Prefix
+    └── .../
+        ├── README.md           # Descrição do problema e restrições
+        ├── {number}.go         # Implementação da solução
+        ├── {number}_test.go    # Testes unitários e benchmarks
+        └── EXPLANATION.md      # Explicação detalhada (quando disponível)
+```
 
 ---
 
-## 📫 Connect
+## 📝 Padrões de Qualidade das Soluções
 
-- [LeetCode Profile](https://leetcode.com/maycon-jesus/)
-- [GitHub](https://github.com/maycon-jesus)
+Cada solução neste repositório inclui:
+
+### ✅ Qualidade de Código
+- Implementação limpa e legível
+- Nomes de variáveis significativos
+- Tratamento adequado de erros
+- Otimizado para performance
+
+### ✅ Testes
+- Testes unitários abrangentes (20-30+ casos de teste por problema)
+- Cobertura de casos extremos
+- Testes de benchmark com métricas de alocação de memória
+- Casos de exemplo da descrição do problema
+
+### ✅ Documentação
+- **README.md**: Descrição do problema, exemplos, restrições e abordagens de solução
+- **EXPLANATION.md**: Passo a passo detalhado da solução, análise de complexidade e técnicas de otimização
+
+### ✅ Performance
+- Análise de complexidade de tempo e espaço
+- Zero ou mínimas alocações de memória quando possível
+- Resultados de benchmark demonstrando performance no mundo real
 
 ---
 
-<p align="center">⭐️ Happy Coding! ⭐️</p>
+## 🚀 Início Rápido
+
+### Executando Soluções
+
+```bash
+# Navegue para o diretório do problema
+cd golang/14
+
+# Execute a solução
+go run 14.go
+
+# Execute os testes
+go test -v
+
+# Execute os benchmarks
+go test -bench=. -benchmem
+```
+
+### Exemplo de Output
+
+```
+=== RUN   TestLongestCommonPrefix
+--- PASS: TestLongestCommonPrefix (0.00s)
+PASS
+
+BenchmarkLongestCommonPrefix-22    179573352    6.827 ns/op    0 B/op    0 allocs/op
+```
+
+---
+
+## 📚 Soluções em Destaque
+
+| Problema | Destaques | Performance |
+|---------|-----------|-------------|
+| [#13 - Roman to Integer](./golang/13/) | Abordagem limpa baseada em map com otimização early exit | 0 B/op, 0 allocs/op |
+| [#14 - Longest Common Prefix](./golang/14/) | Varredura horizontal com zero alocações | 2-23 ns/op, 30 casos de teste |
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagem**: Go 1.21+
+- **Testes**: Framework de testes nativo do Go
+- **Benchmarking**: Ferramentas de benchmark nativas do Go
+- **Controle de Versão**: Git & GitHub
+
+---
+
+## 🤝 Contribuindo
+
+Embora este seja um repositório de aprendizado pessoal, sugestões e melhorias são bem-vindas!
+
+### Como Contribuir
+1. Faça um fork do repositório
+2. Crie uma branch de feature (`git checkout -b feature/melhoria`)
+3. Faça commit das suas mudanças (`git commit -m 'Adiciona melhoria'`)
+4. Faça push para a branch (`git push origin feature/melhoria`)
+5. Abra um Pull Request
+
+### Diretrizes de Contribuição
+- Siga o estilo e estrutura de código existente
+- Inclua testes abrangentes
+- Adicione explicações para algoritmos complexos
+- Certifique-se de que os benchmarks mostram boa performance
+
+---
+
+## 📫 Conecte-se
+
+- 💼 [Perfil LeetCode](https://leetcode.com/maycon-jesus/)
+- 🐙 [GitHub](https://github.com/maycon-jesus)
+
+---
+
+## 📜 Licença
+
+Este projeto é open source e está disponível sob a [Licença MIT](LICENSE).
+
+---
+
+<p align="center">
+  <i>Construído com 💻 e ☕️</i>
+  <br>
+  <b>Boa Codificação!</b> 🚀
+</p>
