@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func countCoveredBuildings(n int, buildings [][]int) int {
 	covered := 0
 	m := len(buildings)
@@ -49,11 +47,4 @@ func countCoveredBuildings(n int, buildings [][]int) int {
 	}
 
 	return covered
-}
-
-func main() {
-	buildings := [][]int{{1, 2}, {2, 2}, {3, 2}, {2, 1}, {2, 3}}
-	n := 3
-	result := countCoveredBuildings(n, buildings)
-	fmt.Println("Number of covered buildings:", result)
 }
